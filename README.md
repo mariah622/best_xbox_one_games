@@ -1,28 +1,10 @@
 # BestXboxOneGames
+This CLI will list the best Xbox One games of 2020.
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/Best_xbox_one_games`. To experiment with that code, run `bin/console` for an interactive prompt.
-
-TODO: Delete this and the text above, and describe your gem
-
-## Installation
-
-Add this line to your application's Gemfile:
-
-```ruby
-gem 'Best_xbox_one_games'
-```
-
-And then execute:
-
-    $ bundle install
-
-Or install it yourself as:
-
-    $ gem install Best_xbox_one_games
 
 ## Usage
 
-TODO: Write usage instructions here
+To run program simply run ./bin/best_xbox_one_games in your terminal.
 
 ## Development
 
