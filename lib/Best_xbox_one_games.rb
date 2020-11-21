@@ -1,0 +1,7 @@
+require_relative "./best_xbox_one_games/version"
+require_relative "./best_xbox_one_games/cli"
+require_relative "./best_xbox_one_games/game"
+require_relative "./best_xbox_one_games/scraper"
+require "nokogiri"
+require "open-uri"
+require "pry"

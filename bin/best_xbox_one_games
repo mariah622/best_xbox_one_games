@@ -1,0 +1,5 @@
+#!/usr/bin/env ruby
+
+require "./lib/best_xbox_one_games"
+
+BestXboxOneGames::CLI.new.call 
