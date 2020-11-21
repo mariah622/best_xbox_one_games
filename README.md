@@ -4,7 +4,7 @@ This CLI will list the best Xbox One games of 2020.
 
 ## Usage
 
-To run program simply run ./bin/best_xbox_one_games in your terminal.
+To run program, simply type ./bin/best_xbox_one_games in your terminal.
 
 ## Development
 
