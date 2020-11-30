@@ -36,7 +36,7 @@ class BestXboxOneGames::CLI
           the_game = display_info[input.to_i-1]
           puts "#{the_game.name} - #{the_game.info}"
         elsif input == "list"
-          display_game
+          display_games
         elsif input != "exit"
           puts "Invalid response."
         end
